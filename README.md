@@ -31,7 +31,7 @@ There are 3 types of input features:
 -   Examination: results of medical examination
 -   Subjective: information given by the patient.
 
-![](data_description.png)
+![](data_description.PNG)
 
 More information on this data:
 
