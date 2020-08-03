@@ -149,8 +149,8 @@ from this data***
 Modeling
 --------
 
-$$ Pr(Cardio \\space Disease) = logit^{-1}( -7.390 \\space - \\space 0.040 \* genderMale \\space - \\space 0.008\*height \\space + \\space 0.0121\*weight$$
-$$ + \\space 0.058\*systolic \\space Blood \\space Pressure \\space + \\space 0.504\*cholesterol \\space - \\space 0.232\*active) $$
+<img src="https://render.githubusercontent.com/render/math?math=\Large Pr(Cardio Disease) = logit^{-1}(-7.390 - 0.040 * genderMale - 0.008 * height%2B0.0121 * weight%2B0.058 * systolic Blood Pressure%2B0.504 * cholesterol - 0.232 * active)">
+
 
     ## # A tibble: 2 x 2
     ##   gender `mean(.fitted)`
